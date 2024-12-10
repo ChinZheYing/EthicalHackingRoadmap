@@ -40,7 +40,7 @@ Some people consider programming to be non-essential in hacking but imho it is E
 	1. Learn HTML and JS and make your own website. You can also host it on Firebase for free. Who knows when this might come in handy.
 	2. Learn SQL and NoSQL
 	3. Learn PHP
-	4. Learn other frameworks such as NextJS, ReactJS. This shouldn't be too hard if you've done steps 1-3.
+	4. Learn other frameworks such as NextJS, ReactJS. This shouldn't be too hard if you've done steps i-iii.
 - Bash (TO BE COMPLETED)
 - Powershell (TO BE COMPLETED)
 ### 3a) Web exploitation
