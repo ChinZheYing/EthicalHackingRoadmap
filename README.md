@@ -1,4 +1,4 @@
-# EthicalHackingRoadmap
+# Ethical Hacking Roadmap
 
 ### Preface
 Numbered points are to be read/watched in sequence, bullet points can be read/watched in any sequence. This document focuses on the technical aspect of hacking (ignoring certifications/job requirements) as that is something I lack experience in.
