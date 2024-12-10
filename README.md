@@ -1,7 +1,7 @@
 # Ethical Hacking Roadmap
 
 ### Preface
-Numbered points are to be read/watched in sequence, bullet points can be read/watched in any sequence. This document focuses on the technical aspect of hacking (ignoring certifications/job requirements) as that is something I lack experience in.
+Numbered points are to be read/watched in sequence, bullet/alphabet points can be read/watched in any sequence. This document focuses on the technical aspect of hacking (ignoring certifications/job requirements) as that is something I lack experience in.
 
 Start off with the basics such as passive and active recon, exploitation, privilege escalation. Play with Metasploitable 2. Do CTFs. Tryhackme has a free path [Link](https://tryhackme.com/r/resources/blog/free_path).
 
