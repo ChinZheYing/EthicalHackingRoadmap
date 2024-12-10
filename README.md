@@ -13,6 +13,7 @@ Now you can start specializing in fields such as web exploitation, exploit dev, 
 2. Privilege Escalation
 	- [TCM Linux Privilege Escalation](https://youtu.be/ZTnwg3qCdVM?si=RlfTRS-nmMcIOEYo)
 	- [TCM Windows Privilege Escalation](https://youtu.be/uTcrbNBcoxQ?si=K2EIGFbaZysaJCMw)
+
 Practice your skills:
 - Metasploitable
 - Tryhackme
@@ -46,6 +47,7 @@ Some people consider programming to be non-essential in hacking but imho it is E
 1. Learn to build websites (which resource???)
 2. Port swinger academy (Updated version of with labs The Web Application Hackers Handbook)
 3. Tryhackme Web Application Pentesting (Optional if you don't want to pay)
+
 Try practice your skills:
 - OWASP Juice Shop
 - DVWA (comes with Metasploitable)
@@ -59,13 +61,14 @@ Buffer overflow used to be in OSCP but was removed due to it being rarely used i
 ### 3c) Malware development (TO BE COMPLETED)
 Mostly focused on Windows malware development (such as Powershell, C# and win32 API). Linux malwares can be developed with programming languages learned in Part 2.
 1. [Cosmodium Malware Dev playlist](https://youtube.com/playlist?list=PL_dk67mLCSFHa5jDNvEuXuoafMHmTjn32&si=BmpiiE-5T5-gjFwf) on YouTube
+
 Projects to make:
-	- Keylogger (Included in Cosmodium playlist)
-	- Screenshots (Included in Cosmodium playlist)
-	- RAT (Included in Cosmodium playlist)
-	- C2 server with Python (Included in Cosmodium playlist)
-	- GUI C2 server with TKinter or Flask
-	- Ransomware
+- Keylogger (Included in Cosmodium playlist)
+- Screenshots (Included in Cosmodium playlist)
+- RAT (Included in Cosmodium playlist)
+- C2 server with Python (Included in Cosmodium playlist)
+- GUI C2 server with TKinter or Flask
+- Ransomware
 ### 3d) Active Directory (TO BE COMPLETED)
 Less likely to encounter if only playing around in CTF. Recommended for those looking to work in cyber field or taking certifications such as OSCP that contains AD.
 1. [TCM AD Course](https://youtu.be/VXxH4n684HE?si=DCNlJgpLSmrvSNNY) Great as TCM guides you through building the AD environment before teaching exploitation. Need to have a decent computer.
